@@ -1,0 +1,11 @@
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\bin\Debug\net8.0\Shipping.Infrastructure.deps.json
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\bin\Debug\net8.0\Shipping.Infrastructure.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\bin\Debug\net8.0\Shipping.Infrastructure.pdb
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\Shipping.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\Shipping.Infrastructure.AssemblyInfoInputs.cache
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\Shipping.Infrastructure.AssemblyInfo.cs
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\Shipping.Infrastructure.csproj.CoreCompileInputs.cache
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\Shipping.Infrastructure.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\refint\Shipping.Infrastructure.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\Shipping.Infrastructure.pdb
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Infrastructure\obj\Debug\net8.0\ref\Shipping.Infrastructure.dll

@@ -1,0 +1,15 @@
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\bin\Debug\net8.0\Shipping.Application.deps.json
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\bin\Debug\net8.0\Shipping.Application.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\bin\Debug\net8.0\Shipping.Application.pdb
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\bin\Debug\net8.0\Purchasing.Domain.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\bin\Debug\net8.0\Purchasing.Domain.pdb
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.csproj.AssemblyReference.cache
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.AssemblyInfoInputs.cache
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.AssemblyInfo.cs
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.csproj.CoreCompileInputs.cache
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.FC9FA1A1.Up2Date
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\refint\Shipping.Application.dll
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\Shipping.Application.pdb
+D:\LinkDev\Assessment Task\ERPSystem\Shipping.Application\obj\Debug\net8.0\ref\Shipping.Application.dll
