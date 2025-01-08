@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQkix9pJUpc=",
-  "success": false,
+  "dgSpecHash": "KETX9MkoIDw=",
+  "success": true,
   "projectFilePath": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Shipping.Application\\Shipping.Application.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Domain\\Purchasing.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Domain\\Purchasing.Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Shipping.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Shipping.Domain": "1.0.0"
+        },
         "runtime": {
           "Shipping.Infrastructure.dll": {}
+        }
+      },
+      "Shipping.Domain/1.0.0": {
+        "runtime": {
+          "Shipping.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Shipping.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shipping.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -88,6 +88,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Shipping.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Shipping.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shipping.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shipping.Application.dll": {}
+        }
+      },
+      "Shipping.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Shipping.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shipping.Domain.dll": {}
+        }
+      },
+      "Shipping.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Shipping.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shipping.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shipping.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -439,12 +475,27 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Shipping.Application/1.0.0": {
+      "type": "project",
+      "path": "../Shipping.Application/Shipping.Application.csproj",
+      "msbuildProject": "../Shipping.Application/Shipping.Application.csproj"
+    },
+    "Shipping.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Shipping.Domain/Shipping.Domain.csproj",
+      "msbuildProject": "../Shipping.Domain/Shipping.Domain.csproj"
+    },
+    "Shipping.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Shipping.Infrastructure/Shipping.Infrastructure.csproj",
+      "msbuildProject": "../Shipping.Infrastructure/Shipping.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Application\\Purchasing.Application.csproj",
-      "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Infrastructure\\Purchasing.Infrastructure.csproj",
+      "Shipping.Application >= 1.0.0",
+      "Shipping.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -480,11 +531,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Application\\Purchasing.Application.csproj": {
-              "projectPath": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Application\\Purchasing.Application.csproj"
+            "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Shipping.Application\\Shipping.Application.csproj": {
+              "projectPath": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Shipping.Application\\Shipping.Application.csproj"
             },
-            "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Infrastructure\\Purchasing.Infrastructure.csproj": {
-              "projectPath": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Infrastructure\\Purchasing.Infrastructure.csproj"
+            "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj": {
+              "projectPath": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj"
             }
           }
         }
@@ -532,25 +583,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Application\\Purchasing.Application.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Application\\Purchasing.Application.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Infrastructure\\Purchasing.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\LinkDev\\Assessment Task\\ERPSystemAssessmment\\ShippingProject\\Purchasing.Infrastructure\\Purchasing.Infrastructure.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

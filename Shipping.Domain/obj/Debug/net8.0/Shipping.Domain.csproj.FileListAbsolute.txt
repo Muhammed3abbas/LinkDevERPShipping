@@ -9,3 +9,15 @@ D:\LinkDev\Assessment Task\ERPSystem\Shipping.Domain\obj\Debug\net8.0\Shipping.D
 D:\LinkDev\Assessment Task\ERPSystem\Shipping.Domain\obj\Debug\net8.0\refint\Shipping.Domain.dll
 D:\LinkDev\Assessment Task\ERPSystem\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.pdb
 D:\LinkDev\Assessment Task\ERPSystem\Shipping.Domain\obj\Debug\net8.0\ref\Shipping.Domain.dll
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\bin\Debug\net8.0\Shipping.Domain.deps.json
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\bin\Debug\net8.0\Shipping.Domain.dll
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\bin\Debug\net8.0\Shipping.Domain.pdb
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.AssemblyInfoInputs.cache
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.AssemblyInfo.cs
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.csproj.CoreCompileInputs.cache
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.sourcelink.json
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.dll
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\refint\Shipping.Domain.dll
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\Shipping.Domain.pdb
+D:\LinkDev\Assessment Task\ERPSystemAssessmment\ShippingProject\Shipping.Domain\obj\Debug\net8.0\ref\Shipping.Domain.dll
